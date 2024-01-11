@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="hero-center">
         <div className="hero-title">
             <h1>Contentful CMS</h1>
-            <p>
+            <p className='main-p-left-border'>
             Contentful is a content management system (CMS) that enables users to manage and deliver digital content across various channels and platforms. It is a headless CMS, meaning it separates the content creation and storage from the presentation layer, allowing for greater flexibility and adaptability in delivering content to different devices and channels.
             </p>
         </div>

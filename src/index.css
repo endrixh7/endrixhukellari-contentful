@@ -370,3 +370,8 @@ PROJECTS
     grid-template-columns: 1fr 1fr 1fr;
   }
 }
+
+.main-p-left-border {
+  padding-left: 0.5rem;
+  border-left: 0.33rem solid #6C63FF;
+}
